@@ -1,0 +1,17 @@
+#div {
+    width: 920px;
+    height: 400px;
+    margin: 50px auto;
+    border: 1px solid darkgray;
+    border-radius: 3px;
+    position: relative;
+}
+
+#canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+    text-align: center;
+}
